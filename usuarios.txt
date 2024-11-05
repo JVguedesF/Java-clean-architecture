@@ -1,0 +1,1 @@
+[br.com.alura.codechella.domain.entities.usuario.Usuario@4ee285c6, br.com.alura.codechella.domain.entities.usuario.Usuario@621be5d1, br.com.alura.codechella.domain.entities.usuario.Usuario@573fd745, br.com.alura.codechella.domain.entities.usuario.Usuario@15327b79]
