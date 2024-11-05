@@ -13,6 +13,5 @@ App de simulação de um site para venda de ingressos de eventos diversos
 - Entender sobre entidades, objetos de valor, casos de uso, repositórios e controladores;
 - Analisar os prós e contras de arquiteturas que utilizam muitas camadas de abstração.
 
-#
 
 
